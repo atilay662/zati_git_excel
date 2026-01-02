@@ -1,0 +1,5 @@
+@EndUserText.label: 'Excel Service'
+define service ZUI_EXCEL_SERVICE {
+  expose ZC_ATI_USER;
+  expose ZC_ATI_USER_DEV;
+}
